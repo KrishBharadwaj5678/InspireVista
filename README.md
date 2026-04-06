@@ -30,13 +30,13 @@ To run InspireVista locally, follow these steps:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/KrishBharadwaj5678/Inspire-Vista.git
+   git clone https://github.com/KrishBharadwaj5678/InspireVista.git
    ````
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Inspire-Vista
+   cd InspireVista
    ```
 
 3. Install the Required Dependencies
